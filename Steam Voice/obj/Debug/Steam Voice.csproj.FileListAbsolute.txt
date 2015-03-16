@@ -1,0 +1,9 @@
+c:\users\matt\documents\visual studio 2013\Projects\Steam Voice\Steam Voice\bin\Debug\Steam Voice.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\Steam Voice\Steam Voice\obj\Debug\Steam_Voice.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2013\Projects\Steam Voice\Steam Voice\obj\Debug\Steam Voice.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2013\Projects\Steam Voice\Steam Voice\bin\Debug\Steam Voice.exe
+c:\users\matt\documents\visual studio 2013\Projects\Steam Voice\Steam Voice\bin\Debug\Steam Voice.pdb
+c:\users\matt\documents\visual studio 2013\Projects\Steam Voice\Steam Voice\obj\Debug\Steam Voice.exe
+c:\users\matt\documents\visual studio 2013\Projects\Steam Voice\Steam Voice\obj\Debug\Steam Voice.pdb
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\Steam Voice\Steam Voice\obj\Debug\Steam Voice.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\Steam Voice\Steam Voice\obj\Debug\Steam_Voice.Form1.resources
